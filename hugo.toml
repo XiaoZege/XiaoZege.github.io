@@ -1,5 +1,5 @@
-baseURL = "https://浣犵殑鐢ㄦ埛鍚?github.io/"
-title = "閹存垹娈戦幎鈧張顖滅應鐠?
+baseURL = "https://XiaoZege.github.io/"
+title = "我的技术笔记"
 theme = "PaperMod"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh"
@@ -14,8 +14,8 @@ enableRobotsTXT = true
 
 [params]
   env = "production"
-  description = "鐠佹澘缍嶇€涳缚绡勯妴浣哥杽妤犲奔绗岄煪鈺佹綑"
-  author = "娴ｇ姷娈戦崥宥呯摟"
+  description = "记录学习、实验与踩坑"
+  author = "你的名字"
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowShareButtons = false
@@ -27,21 +27,21 @@ enableRobotsTXT = true
   TocOpen = false
 
 [params.homeInfoParams]
-  Title = "娴ｇ姴銈介敍灞惧灉閺?娴ｇ姷娈戦崥宥呯摟"
-  Content = "閻㈢喓澧挎穱鈩冧紖鐎涳箑婀拠浼欑礉濮濓絽婀€?AI 鎼存梻鏁ゅ銉р柤閵嗗倽绻栭柌宀冾唶瑜版洘鍨滈惃鍕杽妤犲被鈧浇淇崸鎴濇嫲婢跺秶娲忛妴?
+  Title = "你好，我是 你的名字"
+  Content = "生物信息学在读，正在学 AI 应用工程。这里记录我的实验、踩坑和复盘。"
 
 [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/浣犵殑鐢ㄦ埛鍚?
+  url = "https://github.com/XiaoZege"
 
 [[menu.main]]
   identifier = "posts"
-  name = "閺傚洨鐝?
+  name = "文章"
   url = "/posts/"
   weight = 10
 
 [[menu.main]]
   identifier = "about"
-  name = "閸忓厖绨?
+  name = "关于"
   url = "/about/"
   weight = 20
