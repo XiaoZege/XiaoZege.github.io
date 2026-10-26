@@ -1,5 +1,5 @@
-baseURL = "https://你的用户名.github.io/"
-title = "鎴戠殑鎶€鏈瑪璁?
+baseURL = "https://浣犵殑鐢ㄦ埛鍚?github.io/"
+title = "閹存垹娈戦幎鈧張顖滅應鐠?
 theme = "PaperMod"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh"
@@ -14,8 +14,8 @@ enableRobotsTXT = true
 
 [params]
   env = "production"
-  description = "璁板綍瀛︿範銆佸疄楠屼笌韪╁潙"
-  author = "浣犵殑鍚嶅瓧"
+  description = "鐠佹澘缍嶇€涳缚绡勯妴浣哥杽妤犲奔绗岄煪鈺佹綑"
+  author = "娴ｇ姷娈戦崥宥呯摟"
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowShareButtons = false
@@ -27,21 +27,21 @@ enableRobotsTXT = true
   TocOpen = false
 
 [params.homeInfoParams]
-  Title = "浣犲ソ锛屾垜鏄?浣犵殑鍚嶅瓧"
-  Content = "鐢熺墿淇℃伅瀛﹀湪璇伙紝姝ｅ湪瀛?AI 搴旂敤宸ョ▼銆傝繖閲岃褰曟垜鐨勫疄楠屻€佽俯鍧戝拰澶嶇洏銆?
+  Title = "娴ｇ姴銈介敍灞惧灉閺?娴ｇ姷娈戦崥宥呯摟"
+  Content = "閻㈢喓澧挎穱鈩冧紖鐎涳箑婀拠浼欑礉濮濓絽婀€?AI 鎼存梻鏁ゅ銉р柤閵嗗倽绻栭柌宀冾唶瑜版洘鍨滈惃鍕杽妤犲被鈧浇淇崸鎴濇嫲婢跺秶娲忛妴?
 
 [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/你的用户名"
+  url = "https://github.com/浣犵殑鐢ㄦ埛鍚?
 
 [[menu.main]]
   identifier = "posts"
-  name = "鏂囩珷"
+  name = "閺傚洨鐝?
   url = "/posts/"
   weight = 10
 
 [[menu.main]]
   identifier = "about"
-  name = "鍏充簬"
+  name = "閸忓厖绨?
   url = "/about/"
   weight = 20
