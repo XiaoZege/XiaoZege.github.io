@@ -1,0 +1,47 @@
+baseURL = "https://你的用户名.github.io/"
+title = "鎴戠殑鎶€鏈瑪璁?
+theme = "PaperMod"
+languageCode = "zh-cn"
+defaultContentLanguage = "zh"
+hasCJKLanguage = true
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params]
+  env = "production"
+  description = "璁板綍瀛︿範銆佸疄楠屼笌韪╁潙"
+  author = "浣犵殑鍚嶅瓧"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowToc = true
+  TocOpen = false
+
+[params.homeInfoParams]
+  Title = "浣犲ソ锛屾垜鏄?浣犵殑鍚嶅瓧"
+  Content = "鐢熺墿淇℃伅瀛﹀湪璇伙紝姝ｅ湪瀛?AI 搴旂敤宸ョ▼銆傝繖閲岃褰曟垜鐨勫疄楠屻€佽俯鍧戝拰澶嶇洏銆?
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/你的用户名"
+
+[[menu.main]]
+  identifier = "posts"
+  name = "鏂囩珷"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "about"
+  name = "鍏充簬"
+  url = "/about/"
+  weight = 20
