@@ -6,13 +6,15 @@ ShowToc: false
 ShowBreadCrumbs: false
 ---
 
-福建农林大学 · 生物信息学 · 大二。
+福建农林大学 · 生物信息学 · 大二上。
 
-目前在学：Python 工程化、FastAPI、RAG 与 Agent 开发。
+不是科班计算机，所以这块只能自己补。目前路线是 Python 为主、AI 应用开发为方向，Java 只做入门了解，不往下深挖。
 
-正在做的事：
+现在在学 Python 工程化：uv、pytest、ruff、Git 与 GitHub Actions。同时在做一个小工具 [file-tool](https://github.com/XiaoZege/file-tool)。
 
-- 企业知识库问答系统（FastAPI + 向量检索 + 评测）
-- 一个带重试与限流的 LLM 客户端
+接下来几个月打算把 FastAPI 和数据库跑通，再往 RAG 和 Agent 方向走。
 
-联系方式：把这里换成你的邮箱或 GitHub 主页。
+写这个博客的原因很实在：学没学会，写一篇就知道了。文章里尽量留报错原文和具体数字，方便以后自己翻。
+
+- GitHub：https://github.com/XiaoZege
+- 邮箱：2028557260@qq.com
