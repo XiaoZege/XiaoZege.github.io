@@ -1,4 +1,4 @@
----
+﻿---
 title: "从大二上到秋招：32 个月周计划"
 date: 2026-10-27
 draft: true
@@ -302,7 +302,7 @@ AI 创业公司、本地软件公司、传统企业的数字化部门都可以�
 
 **现在在做**
 - 企业知识库问答：FastAPI + Chroma + bge-m3，Top-5 召回率 88%
-- 每周一篇技术复盘 → https://你的用户名.github.io
+- 每周一篇技术复盘 → https://XiaoZege.github.io
 
 **技术栈**
 Python / FastAPI / MySQL / Redis / Docker / LangChain
@@ -401,13 +401,13 @@ hugo server -D
 在 `hugo.toml`（或 `hugo.yaml`）里至少配置四项：
 
 ```powershell
-baseURL = "https://你的用户名.github.io/"
+baseURL = "https://XiaoZege.github.io/"
 title = "XXX 的技术笔记"
 theme = "PaperMod"
 languageCode = "zh-cn"
 ```
 
-然后：GitHub 新建仓库 `你的用户名.github.io`（必须是这个名字）→ push → 仓库 Settings → Pages → Source 选 GitHub Actions → 添加官方 Hugo 部署 workflow。几分钟后访问 `https://你的用户名.github.io`。
+然后：GitHub 新建仓库 `XiaoZege.github.io`（必须是这个名字）→ push → 仓库 Settings → Pages → Source 选 GitHub Actions → 添加官方 Hugo 部署 workflow。几分钟后访问 `https://XiaoZege.github.io`。
 
 想绑自定义域名（比如 `blog.xxx.com`），在仓库 Settings → Pages 填域名，并在域名服务商加一条 CNAME 记录。
 
@@ -493,7 +493,7 @@ label:"documentation" language:Python is:issue is:open
 
 ```powershell
 # 1. 在网页上 Fork 目标仓库，然后克隆自己的 fork
-git clone git@github.com:你的用户名/目标仓库.git
+git clone git@github.com:XiaoZege/目标仓库.git
 cd 目标仓库
 
 # 2. 加上游仓库，方便同步

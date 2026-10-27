@@ -15,7 +15,7 @@ enableRobotsTXT = true
 [params]
   env = "production"
   description = "记录学习、实验与踩坑"
-  author = "你的名字"
+  author = "XiaoZege"
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowShareButtons = false
@@ -27,7 +27,7 @@ enableRobotsTXT = true
   TocOpen = false
 
 [params.homeInfoParams]
-  Title = "你好，我是 你的名字"
+  Title = "你好，我是 XiaoZege"
   Content = "生物信息学在读，正在学 AI 应用工程。这里记录我的实验、踩坑和复盘。"
 
 [[params.socialIcons]]
